@@ -9,7 +9,7 @@ def tampilkan_xT():
                 awal += 4
                 break
             else:
-                print("Input tidak valid")
+                print("Out Of Range")
     print(*xT)
 
 tampilkan_xT()
