@@ -9,7 +9,7 @@ def tampilkan_zX():
                 awal += 3
                 break
             else:
-                print("Out Of Range")
+                print("Out Of Ranger")
     for nilai in zX:
         print(nilai)
 
